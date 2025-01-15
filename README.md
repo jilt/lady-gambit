@@ -8,3 +8,6 @@ To Do:
 2) add checkerboard detector using [0246 scripting](https://github.com/Trung0246/ComfyUI-0246) or a model for [UltralyticsDetector](https://github.com/ltdrdata/ComfyUI-extension-tutorials/blob/Main/ComfyUI-Impact-Pack/tutorial/detectors.md), [here another link](https://comfy.icu/node/UltralyticsDetectorProvider) about how the node works.
 3) replace refinement mask nodes with the checkerboard detector connected with the [mask bounding box](https://github.com/cubiq/ComfyUI_essentials) node
 4) name recognition in the chat in order to distribute earnings to the most active follower during the stream?
+
+## Video Presentation
+https://drive.google.com/file/d/1F_FlTUFai4otWUrnxQldH_mtZGf4FWy8/view?usp=sharing

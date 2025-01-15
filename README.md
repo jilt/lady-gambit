@@ -6,4 +6,4 @@ Workflow using depthanything to add a sepia filter and a particle system to the 
 To Do:
 1) add [record video activation](https://github.com/ryanontheinside/ComfyUI_RealTimeNodes/blob/main/examples/motioncontrol.json) on the chat movement (always on video on the chess streams)
 2) add checkerboard detector using [0246 scripting](https://github.com/Trung0246/ComfyUI-0246) or a model for [UltralyticsDetector](https://github.com/ltdrdata/ComfyUI-extension-tutorials/blob/Main/ComfyUI-Impact-Pack/tutorial/detectors.md)
-3) replace refinement mask nodes with the checkerboard detector connected with the [mask bounding box](https://github.com/cubiq/ComfyUI_essentials)
+3) replace refinement mask nodes with the checkerboard detector connected with the [mask bounding box](https://github.com/cubiq/ComfyUI_essentials) node

@@ -1,5 +1,5 @@
 # lady-gambit
-A repositorry for the comfyUI workflow built for livepeer streaming platform
+A repository for the comfyUI workflow built for livepeer streaming platform
 
 Workflow using depthanything to add a sepia filter and a particle system to the video stream, optimized for [comfystream](https://gist.github.com/yondonfu/592a04e075e790981cd401124e0d84e4), the effects are studied to work on chess streams, masks are created on the depthanything result and optimized for the most used checkerboard interfaces in the chess streaming community.
 
